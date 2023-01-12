@@ -1,6 +1,6 @@
 # Robimo_2022
 Undergroung object detection via XYZ point clouds, Classifiy Ground points and Off_Ground points.
-![Result_1](/home/lorraineshunie/RobimoCode/Result_1.png, Result_2.png)
+![Result_1](/home/lorraineshunie/RobimoCode/Result_1.png)
 # Experiment Results
 The objective of this project is to detect unlabelled underground objects from dereferenced data.
 Our method contains many stages:
